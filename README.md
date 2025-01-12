@@ -1,8 +1,8 @@
 ## Hi, I'm Andre Ho!
 
-- 🎮 I've been working with 3D art and game development since 2020
+- 📚 Studying to become a Mobile Developer
 
-- 🛠️ I'm learning Java and Python at the moment
+- 🛠️ I'm learning Java and Kotlin at the moment
 
 - 📍 I'm currently living in Brasília, Brasil
 
